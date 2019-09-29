@@ -1,0 +1,14 @@
+.btn_login {
+    -fx-background-color: darkgrey;
+    -fx-text-fill: white;
+    -fx-border-color: white;
+    -fx-border-width: 3;
+
+}
+.btn_register {
+    -fx-background-color: darkgrey;
+    -fx-text-fill: white;
+    -fx-border-color: white;
+    -fx-border-width: 3;
+
+}
