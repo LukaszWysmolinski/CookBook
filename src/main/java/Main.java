@@ -32,5 +32,9 @@ public class Main extends Application {
         launch(args);
 
     }
+
+    public void emtpyMethodForTest(){
+        System.out.println("nic");
+    }
 }
         //dorobic opcje dodawania
